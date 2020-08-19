@@ -1,4 +1,4 @@
-Quick update This script doesn't work anymore since Instagram is now requiring user api keys for accessing user's profile pictures.
+Quick update: this script doesn't work anymore since Instagram is now requiring user API keys for accessing user's profile pictures.
 -
 
 # InstagramProfilePic
